@@ -1,1 +1,1 @@
-# Laboratorios-Sistemas-Operativos
+# Laboratorios Sistemas Operativos
